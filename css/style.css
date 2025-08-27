@@ -1,4 +1,10 @@
 html,
-body {
-    height: 100%
+#img {
+    width: 240px;
+    height: auto;
+    animation: girar 4s linear infinite;
+    -webkit-animation: girar 4s linear infinite;
+    border-radius: 15px;
+    left: 10px;
 }
+
